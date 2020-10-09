@@ -1,0 +1,24 @@
+Agustin Alejandro Gaitan
+
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.20  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::fc3f:6c35:9921:4e38  prefixlen 64  scopeid 0x20<link>
+        inet6 2802:8010:808:3100:ae9:220f:a584:9b51  prefixlen 64  scopeid 0x0<global>
+        inet6 2802:8010:808:3100:dc76:9a09:57e4:516c  prefixlen 64  scopeid 0x0<global>
+        ether 08:00:27:34:3b:3b  txqueuelen 1000  (Ethernet)
+        RX packets 382  bytes 44910 (44.9 KB)
+        RX errors 0  dropped 1  overruns 0  frame 0
+        TX packets 102  bytes 13668 (13.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 146  bytes 12584 (12.5 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 146  bytes 12584 (12.5 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+18:50
