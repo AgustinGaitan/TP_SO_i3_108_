@@ -1,0 +1,14 @@
+a-¿Cómo queda el master después de estos cambios?
+
+- Al hacer el merge desde la rama con mi apellido (gaitan), el main queda tal cual la rama gaitan.
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+
+-Sí, pude ver todos los cambios si es que entraba a las ramas en las que se hacían esos cambios.
+
+c-¿Qué debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+
+- Para poder hacer el merge, tuve que:
+Hacer "git checkout main" para ir a la rama principal
+Luego "git merge Silva" para que todo lo de la rama Silva pase a la main
+Y por último, "git push" para pushear todos los nuevos cambios al main.
