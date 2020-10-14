@@ -45,4 +45,26 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 
 15:56hs
 
+Juan Cruz Reynoso
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.38  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::e519:3b2d:8c1a:33f5  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:40:9e:0d  txqueuelen 1000  (Ethernet)
+        RX packets 1017  bytes 990456 (990.4 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 364  bytes 28664 (28.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 153  bytes 12349 (12.3 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 153  bytes 12349 (12.3 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+18:12hs
+
 
