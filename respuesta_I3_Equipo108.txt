@@ -26,3 +26,10 @@ El unico problema que se presento en el merge, es que para hacerlo hay que ir a 
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
 Hacer un "git checkout gaitan" para ir a la nueva rama
 luego de realizar los correspondientes cambios "git add ." - " git commit -m" y por ultimo un "git push" 
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+- Primero tuve que hacer "git fetch" y "git pull", para actualizar mi repositorio local.
+- Luego hice "git checkout gaitan" para pararme en la rama modificada por beta y agregue mis datos a beta.txt.
+- Finalmente hice "git add ." para añadir los cambios, "git commit -m "alpha push v2" para dejar sentado mis cambios ante mis compañeros,
+y "git push" para subir los cambios al repositorio de github.
